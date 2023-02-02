@@ -1,6 +1,6 @@
 <?php
 
-    class Mdodel
+    class Model
     {
         public $string;
 

@@ -1,6 +1,6 @@
 <?php
 require "Model.php";
-require "Vuew.php";
+require "View.php";
 
     class Controller
     
